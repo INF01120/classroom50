@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "INF01120-20262",
+  "short_name": "inf01120-20262",
+  "term": "20262",
+  "org": "INF01120",
+  "team": {
+    "id": 19898506,
+    "slug": "classroom50-inf01120-20262"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19898507,
+      "slug": "classroom50-inf01120-20262-teacher"
+    },
+    "hta": {
+      "id": 19898508,
+      "slug": "classroom50-inf01120-20262-hta"
+    },
+    "ta": {
+      "id": 19898509,
+      "slug": "classroom50-inf01120-20262-ta"
+    }
+  }
+}
