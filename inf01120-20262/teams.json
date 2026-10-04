@@ -1,0 +1,18 @@
+{
+  "schema": "classroom50/teams/v1",
+  "assignments": {
+    "inf01120-20262-final": {
+      "teams": [
+        {
+          "slug": "classroom50-group-cc35dde86ec61551-1",
+          "id": 19898853,
+          "name": "Grupo Exemplo",
+          "members": [
+            "karinakohl"
+          ],
+          "formation": "student"
+        }
+      ]
+    }
+  }
+}
