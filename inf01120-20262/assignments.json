@@ -1,4 +1,41 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "inf01120-20262-final",
+      "name": "INF01120-20262-Final",
+      "mode": "team",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "INF01120",
+        "repo": "Biblioteca",
+        "branch": "main"
+      },
+      "description": "Trabalho final da disciplina INF01120 - Desenvolvimento de Software, 2026/2, Turma A, Profa. Karina Kohl",
+      "due": "2026-12-05T02:59:00Z",
+      "due_meta": {
+        "input": "2026-12-04T23:59:00",
+        "zone": "America/Sao_Paulo",
+        "offset": "-03:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-10-04T17:00:00Z",
+      "available_from_meta": {
+        "input": "2026-10-04T14:00:00",
+        "zone": "America/Sao_Paulo",
+        "offset": "-03:00",
+        "source": "auto-detected"
+      },
+      "max_group_size": 5,
+      "team_formation": "student",
+      "grading": {
+        "mode": "manual",
+        "max_points": 100
+      }
+    }
+  ]
 }
