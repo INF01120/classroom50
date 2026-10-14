@@ -5,10 +5,28 @@
       "teams": [
         {
           "slug": "classroom50-group-cc35dde86ec61551-1",
-          "id": 19898853,
-          "name": "Grupo Exemplo",
+          "id": 20097711,
+          "name": "grupo xyz",
           "members": [
             "karinakohl"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-cc35dde86ec61551-2",
+          "id": 20097928,
+          "name": "Grupo D",
+          "members": [
+            "GabrielFinkler"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-cc35dde86ec61551-3",
+          "id": 20099791,
+          "name": "Grupo F",
+          "members": [
+            "EduMaz41"
           ],
           "formation": "student"
         }
