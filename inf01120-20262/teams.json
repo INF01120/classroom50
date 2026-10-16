@@ -63,6 +63,13 @@
           "name": "Grupo C",
           "members": [],
           "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-cc35dde86ec61551-7",
+          "id": 20149320,
+          "name": "Grupo E",
+          "members": [],
+          "formation": "student"
         }
       ]
     }
