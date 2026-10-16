@@ -4,6 +4,15 @@
     "inf01120-20262-final": {
       "teams": [
         {
+          "slug": "classroom50-group-cc35dde86ec61551-1",
+          "id": 20149351,
+          "name": "Grupo C",
+          "members": [
+            "dahmerlucas"
+          ],
+          "formation": "student"
+        },
+        {
           "slug": "classroom50-group-cc35dde86ec61551-2",
           "id": 20097928,
           "name": "Grupo D",
@@ -52,7 +61,9 @@
           "slug": "classroom50-group-cc35dde86ec61551-6",
           "id": 20149314,
           "name": "Grupo C",
-          "members": [],
+          "members": [
+            "LeonidasLaufer"
+          ],
           "formation": "student"
         },
         {
