@@ -34,6 +34,28 @@
             "EduMaz41"
           ],
           "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-cc35dde86ec61551-4",
+          "id": 20130862,
+          "name": "Dungeon",
+          "members": [
+            "mpoesnt",
+            "otxro",
+            "AndrezzaPatatasRicardo",
+            "v1cntz"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-cc35dde86ec61551-5",
+          "id": 20143479,
+          "name": "Grupo A",
+          "members": [
+            "Elduris",
+            "yuriFrank"
+          ],
+          "formation": "student"
         }
       ]
     }
